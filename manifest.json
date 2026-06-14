@@ -1,0 +1,16 @@
+{
+  "id": "com.pnthr.nix",
+  "name": "Nix Language Support",
+  "mainClass": "com.pnthr.nix.Nix",
+  "version": "1.0.0",
+  "description": "Nix syntax highlighting and nil language server",
+  "author": {
+    "displayName": "pnthr",
+    "github": "pnthrr"
+  },
+  "license": "MIT",
+  "tags": ["nix", "lsp"],
+  "minAppVersion": 87,
+  "maxAppVersion": null,
+  "repository": "https://github.com/pnthrr/xed-nix"
+}
